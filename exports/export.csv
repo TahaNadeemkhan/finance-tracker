@@ -1,0 +1,12 @@
+type,date,category,description,amount
+transaction,2025-11-16,Food,yummy foods,4400
+transaction,2025-11-15,Salary,Monthly Salary,100000
+transaction,2025-11-14,Transport,Bus fare,500
+transaction,2025-11-13,Food,Dinner with friends,2500
+transaction,2025-11-12,Shopping,New shirt,7000
+transaction,2025-11-16,Food,Taha,145600
+transaction,2025-11-05,Bills,I have submitted my all utility bills,855500
+transaction,2025-11-05,Bills,I have submitted my all utility bills,855500
+budget,,Food,,88800
+budget,,Transport,,20000
+budget,,Shopping,,30000
