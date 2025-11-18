@@ -3,7 +3,9 @@
 2025-11-14,expense,Transport,Bus fare,500
 2025-11-13,expense,Food,Dinner with friends,2500
 2025-11-12,expense,Shopping,New shirt,7000
-2025-11-11,income,Freelance,Project payment,250002025-11-16,income,Salary,my salary,85500
 2025-11-16,expense,Food,Taha,145600
 2025-11-05,expense,Bills,I have submitted my all utility bills,855500
 2025-11-05,expense,Bills,I have submitted my all utility bills,855500
+2025-11-17,income,Investment,my first investment,98800
+2025-11-18,income,Freelance,Pakistan,45600
+2025-11-18,Expense,Food,goods,89900

@@ -1,3 +1,4 @@
 Food,88800
-Transport,20000
-Shopping,30000
+Transport,98700
+Shopping,986300
+Health,986300
